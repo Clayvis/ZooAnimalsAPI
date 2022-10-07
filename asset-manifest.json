@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zooAnimalsApi/static/css/main.b13c5db4.css",
+    "main.js": "/zooAnimalsApi/static/js/main.bd517cfe.js",
+    "index.html": "/zooAnimalsApi/index.html",
+    "main.b13c5db4.css.map": "/zooAnimalsApi/static/css/main.b13c5db4.css.map",
+    "main.bd517cfe.js.map": "/zooAnimalsApi/static/js/main.bd517cfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b13c5db4.css",
+    "static/js/main.bd517cfe.js"
+  ]
+}
