@@ -29,7 +29,7 @@ const ZooAnimalsList = () => {
 	function getZooAnimals() {
 		let config = {
 			method: "GET",
-			url: `https://zoo-animal-api.herokuapp.com/animals/rand/6`,
+			url: `https://zoo-animal-api.herokuapp.com/animals/rand/8`,
 		};
 		return axios(config);
 	}
