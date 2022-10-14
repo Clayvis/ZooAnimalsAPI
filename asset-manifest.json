@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/zooAnimalsApi/static/css/main.b13c5db4.css",
-    "main.js": "/zooAnimalsApi/static/js/main.bd517cfe.js",
+    "main.js": "/zooAnimalsApi/static/js/main.b8b08643.js",
     "index.html": "/zooAnimalsApi/index.html",
     "main.b13c5db4.css.map": "/zooAnimalsApi/static/css/main.b13c5db4.css.map",
-    "main.bd517cfe.js.map": "/zooAnimalsApi/static/js/main.bd517cfe.js.map"
+    "main.b8b08643.js.map": "/zooAnimalsApi/static/js/main.b8b08643.js.map"
   },
   "entrypoints": [
     "static/css/main.b13c5db4.css",
-    "static/js/main.bd517cfe.js"
+    "static/js/main.b8b08643.js"
   ]
 }
